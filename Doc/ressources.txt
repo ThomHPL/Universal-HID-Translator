@@ -1,0 +1,10 @@
+xbox360 hid report desc:
+https://gist.github.com/fendent/5709856
+
+RE of xbox 360 reports
+https://www.partsnotincluded.com/understanding-the-xbox-360-wired-controllers-usb-data/
+
+xbox360 hid report size: 20 bytes
+
+
+https://github.com/nesvera/STM32-X360-xinput/blob/master/Src/usbd_desc.c
