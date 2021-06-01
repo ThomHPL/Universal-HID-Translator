@@ -1,0 +1,5 @@
+Dualshock3_driver.c:31:27:Dualshock3Init	96	static
+Dualshock3_driver.c:123:9:decodeRawData	16	static
+Dualshock3_driver.c:131:6:USBH_HID_EventCallback	16	static
+Dualshock3_driver.c:141:13:Dualshock3_connected_CB	4	static
+Dualshock3_driver.c:149:13:Dualshock3_newReport_CB	16	static

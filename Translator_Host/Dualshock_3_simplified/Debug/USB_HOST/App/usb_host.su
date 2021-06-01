@@ -1,0 +1,5 @@
+usb_host.c:69:6:MX_USB_HOST_Process	8	static
+usb_host.c:81:6:MX_USB_HOST_Get_HID_Report	16	static
+usb_host.c:94:6:MX_USB_HOST_SuspendThread	8	static
+usb_host.c:108:6:MX_USB_HOST_Init	8	static
+usb_host.c:150:13:USBH_UserProcess	16	static

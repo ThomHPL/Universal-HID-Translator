@@ -1,0 +1,3 @@
+usbh_hid_generic.c:37:20:USBH_HID_GenericRegisterDriver	12	static
+usbh_hid_generic.c:55:20:USBH_HID_GenericInit	40	static
+usbh_hid_generic.c:103:20:USBH_HID_GetRawReport	24	static
